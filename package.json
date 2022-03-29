@@ -1,0 +1,11 @@
+{
+  "name": "client_http",
+  "version": "1.0.0",
+  "description": "client between server and db and file system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alas",
+  "license": "ISC"
+}
